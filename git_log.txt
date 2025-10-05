@@ -1,0 +1,41 @@
+commit ac5dcdae952feaf03c9790e61fd141c031e8115c
+Author: Luca Gozzi <luca.gozzi@unil.ch>
+Date:   Sun Oct 5 11:58:05 2025 +0000
+
+    Create git_log
+
+commit 08f3d437bdc2080c4902160958b4271b89db36a3
+Author: Luca Gozzi <luca.gozzi@unil.ch>
+Date:   Sun Oct 5 11:51:17 2025 +0000
+
+    Problem 4 solved
+
+commit e79f324ce04370d6d5abbb38c7b6b56114f20b20
+Author: Luca Gozzi <luca.gozzi@unil.ch>
+Date:   Sun Oct 5 11:49:23 2025 +0000
+
+    Problem 3 solved
+
+commit c5ba44ebfed96d7e9ddaecbfc52c2a8c070e0a71
+Author: Luca Gozzi <luca.gozzi@unil.ch>
+Date:   Sun Oct 5 11:40:19 2025 +0000
+
+    Problem 2 solved
+
+commit dd30dcfd93479af17c28818d67934e1c423ae8cb
+Author: Luca Gozzi <luca.gozzi@unil.ch>
+Date:   Mon Sep 29 13:57:22 2025 +0000
+
+    Add my name and date
+
+commit 7bcb689e6ec93cc64526a8c7be6547d031f5ef09
+Author: Anna Smirnova <anna.smirnova@unil.ch>
+Date:   Mon Sep 29 14:44:57 2025 +0200
+
+    Add GitHub Classroom autograding configuration
+
+commit 2dc2daa38eab9338834bf27a431ee90c92a89e2c
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Mon Sep 29 11:49:46 2025 +0000
+
+    Initial commit
